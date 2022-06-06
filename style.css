@@ -1,0 +1,17 @@
+.logo{
+    margin:5px 0 0 5px;
+    float: left;
+    margin-right: 15px;
+    border-radius: 5px;
+
+}
+header{
+    display: block;
+    background-color: #449;
+    padding: 15px;
+    color:aliceblue;
+    transition: cubic-bezier(0.19, 1, 0.22, 1);
+}
+  h1{
+      text-align: center;
+  }
